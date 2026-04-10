@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jerry Mathew Oommen
 
-<!--
-**JerryMathew07/JerryMathew07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Developer | MS Computer Science, University at Buffalo
 
-Here are some ideas to get you started:
+## About
+Two years developing C++ applications at Continental 
+Automotive. Published research in scheduling algorithms 
+and combinatorial optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building systems projects in modern C++17/20.
+
+## Projects
+- LRU Cache — O(1) cache using doubly linked list and hash map
+
+## Research
+Collaborative Truck-Multi-Drone Delivery Scheduling
+University at Buffalo Technical Report — [Link](https://cse.buffalo.edu/tech-reports/2026-02.pdf)
+
+## Contact
+- LinkedIn: linkedin.com/in/jerryoommen07
+- Email: jerryoommen07@gmail.com
