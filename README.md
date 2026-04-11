@@ -5,7 +5,7 @@ C++ Developer | MS Computer Science, University at Buffalo
 ## About
 Two years writing and debugging C++ applications at Continental Automotive for automotive OBU and HMI systems.
 
-Published research in scheduling algorithms and combinatorial optimization.
+Author of an M.S. thesis in scheduling algorithms and combinatorial optimization.
 
 Currently building systems projects in modern C++17/20.
 
