@@ -10,6 +10,7 @@ Author of an M.S. thesis in scheduling algorithms and combinatorial optimization
 Currently building systems projects in modern C++17/20.
 
 ## Projects
+- [Synthetic Data Breach Document Review](https://github.com/JerryMathew07/synthetic-data-breach-review) — Excel-based PII review, data-quality, notification-list, and benchmark-QC workflow using 24 pages of entirely synthetic incident documents
 - LRU Cache — O(1) cache using doubly linked list and hash map
 
 ## Research
