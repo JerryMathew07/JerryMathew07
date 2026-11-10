@@ -11,6 +11,7 @@ Currently building systems projects in modern C++17/20.
 
 ## Projects
 - [Synthetic Data Breach Document Review](https://github.com/JerryMathew07/synthetic-data-breach-review) — Excel-based PII review, data-quality, notification-list, and benchmark-QC workflow using 24 pages of entirely synthetic incident documents
+- [Document Review QA and Productivity Tracker](https://github.com/JerryMathew07/document-review-qa-productivity-tracker) — Excel operations dashboard for throughput, weighted QA accuracy, SLA compliance, error severity, and corrective-action tracking across 50 synthetic review batches
 - LRU Cache — O(1) cache using doubly linked list and hash map
 
 ## Research
